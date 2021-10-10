@@ -8,8 +8,8 @@
 ## **Лекція 10. Графічний конвейєр. Проектування. Clipping.**
 
 ## **ПРЕЗЕНТАЦІЇ ЛЕКЦІЙ**
-[**Лекція 06**](/01_LEC_/Modulus_2/2021_CG_Mod_2_Lec_06.pdf)  
-[**Лекція 07**](/01_LEC_/Modulus_2/2021_CG_Mod_2_Lec_07.pdf)  
-[**Лекція 08**](/01_LEC_/Modulus_2/2021_CG_Mod_2_Lec_08.pdf)  
-[**Лекція 09**](/01_LEC_/Modulus_2/2021_CG_Mod_2_Lec_09.pdf)  
-[**Лекція 10**](/01_LEC_/Modulus_2/2021_CG_Mod_2_Lec_10.pdf)  
+[**Лекція 06**](/01_LEC_/Modulus_2/CG_2021_Mod_2_Lec_06.pdf)  
+[**Лекція 07**](/01_LEC_/Modulus_2/CG_2021_Mod_2_Lec_07.pdf)  
+[**Лекція 08**](/01_LEC_/Modulus_2/CG_2021_Mod_2_Lec_08.pdf)  
+[**Лекція 09**](/01_LEC_/Modulus_2/CG_2021_Mod_2_Lec_09.pdf)  
+[**Лекція 10**](/01_LEC_/Modulus_2/CG_2021_Mod_2_Lec_10.pdf)  
