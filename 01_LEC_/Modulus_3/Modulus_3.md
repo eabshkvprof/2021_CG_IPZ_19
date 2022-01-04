@@ -9,8 +9,8 @@
 
 
 ## **ПРЕЗЕНТАЦІЇ ЛЕКЦІЙ**
-[**Лекція 10**](/01_LEC_/Modulus_3/2021_CG_Mod_3_Lec_10.pdf)  
-[**Лекція 11**](/01_LEC_/Modulus_3/2021_CG_Mod_3_Lec_11.pdf)  
-[**Лекція 12**](/01_LEC_/Modulus_3/2021_CG_Mod_3_Lec_12.pdf)  
-[**Лекція 13**](/01_LEC_/Modulus_3/2021_CG_Mod_3_Lec_13.pdf)  
-[**Лекція 14**](/01_LEC_/Modulus_3/2021_CG_Mod_3_Lec_14.pdf)  
+[**Лекція 10**](/01_LEC_/Modulus_3/CG_2021_Mod_3_Lec_10.pdf)  
+[**Лекція 11**](/01_LEC_/Modulus_3/CG_2021_Mod_3_Lec_11.pdf)  
+[**Лекція 12**](/01_LEC_/Modulus_3/CG_2021_Mod_3_Lec_12.pdf)  
+[**Лекція 13**](/01_LEC_/Modulus_3/CG_2021_Mod_3_Lec_13.pdf)  
+[**Лекція 14**](/01_LEC_/Modulus_3/CG_2021_Mod_3_Lec_14.pdf)  

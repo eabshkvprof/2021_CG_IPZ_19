@@ -6,6 +6,6 @@
 ## **Лекція 17. Super Computers/ Top 500.**
 
 ## **ПРЕЗЕНТАЦІЇ ЛЕКЦІЙ ДЛЯ СУДЕНТІВ ОЧНОЇ ФОРМИ**
-[**Лекція 15**](/01_LEC_/Modulus_4/2021_CG_Mod_4_Lec_15.pdf)  
-[**Лекція 16**](/01_LEC_/Modulus_4/2021_CG_Mod_4_Lec_16.pdf)  
-[**Лекція 17**](/01_LEC_/Modulus_4/2021_CG_Mod_4_Lec_17.pdf)  
+[**Лекція 15**](/01_LEC_/Modulus_4/CG_2021_Mod_4_Lec_15.pdf)  
+[**Лекція 16**](/01_LEC_/Modulus_4/CG_2021_Mod_4_Lec_16.pdf)  
+[**Лекція 17**](/01_LEC_/Modulus_4/CG_2021_Mod_4_Lec_17.pdf)  
